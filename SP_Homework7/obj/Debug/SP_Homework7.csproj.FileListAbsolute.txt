@@ -1,0 +1,9 @@
+c:\users\орунбаевас\documents\visual studio 2017\Projects\SP_Homework7\SP_Homework7\bin\Debug\SP_Homework7.exe.config
+c:\users\орунбаевас\documents\visual studio 2017\Projects\SP_Homework7\SP_Homework7\bin\Debug\SP_Homework7.exe
+c:\users\орунбаевас\documents\visual studio 2017\Projects\SP_Homework7\SP_Homework7\bin\Debug\SP_Homework7.pdb
+c:\users\орунбаевас\documents\visual studio 2017\Projects\SP_Homework7\SP_Homework7\obj\Debug\SP_Homework7.csprojResolveAssemblyReference.cache
+c:\users\орунбаевас\documents\visual studio 2017\Projects\SP_Homework7\SP_Homework7\obj\Debug\SP_Homework7.MainForm.resources
+c:\users\орунбаевас\documents\visual studio 2017\Projects\SP_Homework7\SP_Homework7\obj\Debug\SP_Homework7.Properties.Resources.resources
+c:\users\орунбаевас\documents\visual studio 2017\Projects\SP_Homework7\SP_Homework7\obj\Debug\SP_Homework7.csproj.GenerateResource.Cache
+c:\users\орунбаевас\documents\visual studio 2017\Projects\SP_Homework7\SP_Homework7\obj\Debug\SP_Homework7.exe
+c:\users\орунбаевас\documents\visual studio 2017\Projects\SP_Homework7\SP_Homework7\obj\Debug\SP_Homework7.pdb
